@@ -15,8 +15,8 @@
 
 ### 4.Keil5工程
 
-点击
+在正点原子stm32h743阿波罗开发板上测试通过
 
-Keil5 project\stm32h743-atk-apollo\bsp\stm32\stm32h743-atk-apollo\project.uvprojx
+bsp\stm32\stm32h743-atk-apollo\project.uvprojx
 
 打开keil5工程文件即可使用
